@@ -1,0 +1,8 @@
+Website References
+
+https://stackoverflow.com/questions/49909710/suppress-scientific-format-in-a-dataframe-column
+https://stackoverflow.com/questions/40950310/strip-trim-all-strings-of-a-dataframe
+https://stackoverflow.com/questions/42442408/take-first-6-digits-of-pandas-column
+https://towardsdatascience.com/5-methods-to-remove-the-from-your-data-in-python-and-the-fastest-one-281489382455
+
+
